@@ -1,0 +1,92 @@
+[21-Aug-2025 10:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function func() in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php:6
+Stack trace:
+#0 /home/riddhi/Local Sites/my-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/riddhi/Local Sites/my-portfolio/app/public/wp-blog-header.php(19): require_once('/home/riddhi/Lo...')
+#2 /home/riddhi/Local Sites/my-portfolio/app/public/index.php(17): require('/home/riddhi/Lo...')
+#3 {main}
+  thrown in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php on line 6
+[21-Aug-2025 10:55:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function func() in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php:6
+Stack trace:
+#0 /home/riddhi/Local Sites/my-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/riddhi/Local Sites/my-portfolio/app/public/wp-blog-header.php(19): require_once('/home/riddhi/Lo...')
+#2 /home/riddhi/Local Sites/my-portfolio/app/public/index.php(17): require('/home/riddhi/Lo...')
+#3 {main}
+  thrown in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php on line 6
+[21-Aug-2025 10:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function func() in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php:6
+Stack trace:
+#0 /home/riddhi/Local Sites/my-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/riddhi/Local Sites/my-portfolio/app/public/wp-blog-header.php(19): require_once('/home/riddhi/Lo...')
+#2 /home/riddhi/Local Sites/my-portfolio/app/public/index.php(17): require('/home/riddhi/Lo...')
+#3 {main}
+  thrown in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/index.php on line 6
+[21-Aug-2025 12:05:11 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/footer.php on line 6
+[21-Aug-2025 12:05:46 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/footer.php on line 7
+[21-Aug-2025 12:05:47 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/footer.php on line 7
+[21-Aug-2025 12:05:47 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/footer.php on line 7
+[21-Aug-2025 12:05:50 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/footer.php on line 7
+[21-Aug-2025 13:34:37 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 5
+[21-Aug-2025 13:34:37 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 5
+[21-Aug-2025 13:39:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:39:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/riddhi/Local Sites/my-portfolio/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[21-Aug-2025 13:39:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/riddhi/Local Sites/my-portfolio/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[21-Aug-2025 13:41:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:43:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:47:30 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:49:30 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:51:30 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:53:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:55:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:57:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 13:59:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:01:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:03:31 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:05:32 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:07:32 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:09:32 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:11:33 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:13:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:15:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:17:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:19:34 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:21:35 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:23:35 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:25:36 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:27:36 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:29:36 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:31:37 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:33:37 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:35:37 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:37:37 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:39:38 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:41:38 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:43:38 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:45:38 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:47:38 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:49:39 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 14:51:40 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:08:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:10:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:12:17 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:14:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:16:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:18:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:20:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:22:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:24:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:26:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:28:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:30:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:32:21 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:34:22 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:36:22 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:38:23 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:40:23 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:42:24 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:44:25 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:46:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:46:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[21-Aug-2025 18:46:25 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/functions.php on line 4
+[22-Aug-2025 03:11:06 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/page.php on line 35
+[22-Aug-2025 03:11:14 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/page.php on line 32
+[22-Aug-2025 03:11:46 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/riddhi/Local Sites/my-portfolio/app/public/wp-content/themes/my-portfolio-theme/page.php on line 32
