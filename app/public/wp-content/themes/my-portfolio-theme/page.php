@@ -27,7 +27,7 @@
         <?php }
     ?>
 
-        <?php 
+    <?php 
         $hasChildren = get_pages(array(
             'child_of' => get_the_ID()
         ));
@@ -56,7 +56,6 @@
         <div class="generic-content">
             <?php the_content(); ?>
         </div>
-    </div>
         
     <?php
     }
