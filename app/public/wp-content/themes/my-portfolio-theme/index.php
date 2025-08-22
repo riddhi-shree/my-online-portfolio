@@ -7,7 +7,7 @@
     <div class="page-banner__content container container--narrow">
       <h1 class="page-banner__title">Welcome to Our Blog</h1>
       <div class="page-banner__intro">
-        <p>Kepp up with our latest news.</p>
+        <p>Keep up with our latest news.</p>
       </div>
     </div>
   </div>
